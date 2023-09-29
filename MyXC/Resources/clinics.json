@@ -1,0 +1,64 @@
+{
+  "clinics": [
+    {
+      "clinicId": 0,
+      "clinicTitle": "Clinic 1",
+      "cityId": 1,
+      "cityName": "City 1"
+    },
+    {
+      "clinicId": 1,
+      "clinicTitle": "Clinic 2",
+      "cityId": 2,
+      "cityName": "City 2"
+    },
+    {
+      "clinicId": 2,
+      "clinicTitle": "Clinic 3",
+      "cityId": 3,
+      "cityName": "City 3"
+    },
+    {
+      "clinicId": 3,
+      "clinicTitle": "Clinic 4",
+      "cityId": 4,
+      "cityName": "City 4"
+    },
+    {
+      "clinicId": 4,
+      "clinicTitle": "Clinic 5",
+      "cityId": 5,
+      "cityName": "City 5"
+    },
+    {
+      "clinicId": 5,
+      "clinicTitle": "Clinic 6",
+      "cityId": 6,
+      "cityName": "City 6"
+    },
+    {
+      "clinicId": 6,
+      "clinicTitle": "Clinic 7",
+      "cityId": 7,
+      "cityName": "City 7"
+    },
+    {
+      "clinicId": 7,
+      "clinicTitle": "Clinic 8",
+      "cityId": 8,
+      "cityName": "City 8"
+    },
+    {
+      "clinicId": 8,
+      "clinicTitle": "Clinic 9",
+      "cityId": 9,
+      "cityName": "City 9"
+    },
+    {
+      "clinicId": 9,
+      "clinicTitle": "Clinic 10",
+      "cityId": 10,
+      "cityName": "City 10"
+    }
+  ]
+}

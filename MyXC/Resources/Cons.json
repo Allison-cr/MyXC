@@ -1,0 +1,170 @@
+{
+  "consultationsByAmount": [
+    {
+      "serviceId": 1,
+      "code": "ABC123",
+      "clinicId": 101,
+      "price": 50,
+      "amount": 10,
+      "discount": 5
+    },
+    {
+      "serviceId": 2,
+      "code": "XYZ789",
+      "clinicId": 102,
+      "price": 60,
+      "amount": 15,
+      "discount": 3
+    },
+    {
+      "serviceId": 3,
+      "code": "LMN456",
+      "clinicId": 103,
+      "price": 70,
+      "amount": 20,
+      "discount": 8
+    },
+    {
+      "serviceId": 4,
+      "code": "PQR789",
+      "clinicId": 104,
+      "price": 80,
+      "amount": 25,
+      "discount": 10
+    },
+    {
+      "serviceId": 5,
+      "code": "STU123",
+      "clinicId": 105,
+      "price": 90,
+      "amount": 30,
+      "discount": 12
+    },
+    {
+      "serviceId": 6,
+      "code": "VWX456",
+      "clinicId": 106,
+      "price": 100,
+      "amount": 35,
+      "discount": 15
+    },
+    {
+      "serviceId": 7,
+      "code": "YZA789",
+      "clinicId": 107,
+      "price": 110,
+      "amount": 40,
+      "discount": 18
+    },
+    {
+      "serviceId": 8,
+      "code": "BCD123",
+      "clinicId": 108,
+      "price": 120,
+      "amount": 45,
+      "discount": 20
+    },
+    {
+      "serviceId": 9,
+      "code": "EFG456",
+      "clinicId": 109,
+      "price": 130,
+      "amount": 50,
+      "discount": 25
+    },
+    {
+      "serviceId": 10,
+      "code": "HIJ789",
+      "clinicId": 110,
+      "price": 140,
+      "amount": 55,
+      "discount": 30
+    }
+  ],
+  "consultationsByPeriod": [
+    {
+      "serviceId": 11,
+      "code": "KLM123",
+      "clinicId": 111,
+      "price": 150,
+      "periodMonths": 12,
+      "discount": 35
+    },
+    {
+      "serviceId": 12,
+      "code": "OPQ456",
+      "clinicId": 112,
+      "price": 160,
+      "periodMonths": 18,
+      "discount": 40
+    },
+    {
+      "serviceId": 13,
+      "code": "RST789",
+      "clinicId": 113,
+      "price": 170,
+      "periodMonths": 24,
+      "discount": 45
+    },
+    {
+      "serviceId": 14,
+      "code": "UVW123",
+      "clinicId": 114,
+      "price": 180,
+      "periodMonths": 30,
+      "discount": 50
+    },
+    {
+      "serviceId": 15,
+      "code": "XYZ456",
+      "clinicId": 115,
+      "price": 190,
+      "periodMonths": 36,
+      "discount": 55
+    },
+    {
+      "serviceId": 16,
+      "code": "ABC789",
+      "clinicId": 116,
+      "price": 200,
+      "periodMonths": 42,
+      "discount": 60
+    },
+    {
+      "serviceId": 17,
+      "code": "DEF123",
+      "clinicId": 117,
+      "price": 210,
+      "periodMonths": 48,
+      "discount": 65
+    },
+    {
+      "serviceId": 18,
+      "code": "GHI456",
+      "clinicId": 118,
+      "price": 220,
+      "periodMonths": 54,
+      "discount": 70
+    },
+    {
+      "serviceId": 19,
+      "code": "JKL789",
+      "clinicId": 119,
+      "price": 230,
+      "periodMonths": 60,
+      "discount": 75
+    },
+    {
+      "serviceId": 20,
+      "code": "MNO123",
+      "clinicId": 120,
+      "price": 240,
+      "periodMonths": 66,
+      "discount": 80
+    }
+  ],
+  "consultationByPeriodDescription": "Description for consultation by period",
+  "consultationByPeriodTsoLink": "http://example.com/period",
+  "consultationByAmountDescription": "Description for consultation by amount",
+  "consultationByAmountTsoLink": "http://example.com/amount"
+}
