@@ -10,14 +10,22 @@
 		FEF956AE2AC4DE6700B6F678 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF956AD2AC4DE6700B6F678 /* AppDelegate.swift */; };
 		FEF956B02AC4DE6700B6F678 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF956AF2AC4DE6700B6F678 /* SceneDelegate.swift */; };
 		FEF956B72AC4DE6700B6F678 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEF956B62AC4DE6700B6F678 /* Assets.xcassets */; };
-		FEF956C22AC4DF2100B6F678 /* AppCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF956C12AC4DF2100B6F678 /* AppCoordinator.swift */; };
-		FEF956C42AC4E3BA00B6F678 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF956C32AC4E3BA00B6F678 /* FirstViewController.swift */; };
+		FEF956C22AC4DF2100B6F678 /* MainCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF956C12AC4DF2100B6F678 /* MainCoordinator.swift */; };
+		FEF956C42AC4E3BA00B6F678 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF956C32AC4E3BA00B6F678 /* MainViewController.swift */; };
 		FEF956E82AC58A6D00B6F678 /* BuyConsultationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF956E72AC58A6D00B6F678 /* BuyConsultationView.swift */; };
 		FEF956EE2AC58BFC00B6F678 /* BuyConsultatuonViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF956ED2AC58BFC00B6F678 /* BuyConsultatuonViewModel.swift */; };
 		FEF956F02AC58C1300B6F678 /* BuyConsultationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF956EF2AC58C1300B6F678 /* BuyConsultationModel.swift */; };
 		FEF956F82AC6F05F00B6F678 /* doctors.json in Resources */ = {isa = PBXBuildFile; fileRef = FEF956F72AC6F05F00B6F678 /* doctors.json */; };
 		FEF956FA2AC6F09300B6F678 /* clinics.json in Resources */ = {isa = PBXBuildFile; fileRef = FEF956F92AC6F09300B6F678 /* clinics.json */; };
 		FEF956FC2AC6F74D00B6F678 /* Cons.json in Resources */ = {isa = PBXBuildFile; fileRef = FEF956FB2AC6F74D00B6F678 /* Cons.json */; };
+		FEF957002AC75C5100B6F678 /* Screen1SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF956FF2AC75C5100B6F678 /* Screen1SwiftUIView.swift */; };
+		FEF957022AC75F4800B6F678 /* Screen2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF957012AC75F4800B6F678 /* Screen2ViewController.swift */; };
+		FEF957042AC75F6700B6F678 /* Screen3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF957032AC75F6700B6F678 /* Screen3ViewController.swift */; };
+		FEF957082AC762EB00B6F678 /* Screen2SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF957072AC762EB00B6F678 /* Screen2SwiftUIView.swift */; };
+		FEF9570C2AC7697200B6F678 /* Screen3SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF9570B2AC7697200B6F678 /* Screen3SwiftUIView.swift */; };
+		FEF9570E2AC76C7A00B6F678 /* Screen1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF9570D2AC76C7A00B6F678 /* Screen1ViewController.swift */; };
+		FEF957102AC8432A00B6F678 /* Screen4SwiftUView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF9570F2AC8432A00B6F678 /* Screen4SwiftUView.swift */; };
+		FEF957122AC8433E00B6F678 /* Screen5SwiftUView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF957112AC8433E00B6F678 /* Screen5SwiftUView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,14 +34,22 @@
 		FEF956AF2AC4DE6700B6F678 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		FEF956B62AC4DE6700B6F678 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FEF956BB2AC4DE6700B6F678 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FEF956C12AC4DF2100B6F678 /* AppCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppCoordinator.swift; sourceTree = "<group>"; };
-		FEF956C32AC4E3BA00B6F678 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		FEF956C12AC4DF2100B6F678 /* MainCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainCoordinator.swift; sourceTree = "<group>"; };
+		FEF956C32AC4E3BA00B6F678 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		FEF956E72AC58A6D00B6F678 /* BuyConsultationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuyConsultationView.swift; sourceTree = "<group>"; };
 		FEF956ED2AC58BFC00B6F678 /* BuyConsultatuonViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuyConsultatuonViewModel.swift; sourceTree = "<group>"; };
 		FEF956EF2AC58C1300B6F678 /* BuyConsultationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuyConsultationModel.swift; sourceTree = "<group>"; };
 		FEF956F72AC6F05F00B6F678 /* doctors.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = doctors.json; sourceTree = "<group>"; };
 		FEF956F92AC6F09300B6F678 /* clinics.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = clinics.json; sourceTree = "<group>"; };
 		FEF956FB2AC6F74D00B6F678 /* Cons.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Cons.json; sourceTree = "<group>"; };
+		FEF956FF2AC75C5100B6F678 /* Screen1SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen1SwiftUIView.swift; sourceTree = "<group>"; };
+		FEF957012AC75F4800B6F678 /* Screen2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen2ViewController.swift; sourceTree = "<group>"; };
+		FEF957032AC75F6700B6F678 /* Screen3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen3ViewController.swift; sourceTree = "<group>"; };
+		FEF957072AC762EB00B6F678 /* Screen2SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen2SwiftUIView.swift; sourceTree = "<group>"; };
+		FEF9570B2AC7697200B6F678 /* Screen3SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen3SwiftUIView.swift; sourceTree = "<group>"; };
+		FEF9570D2AC76C7A00B6F678 /* Screen1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen1ViewController.swift; sourceTree = "<group>"; };
+		FEF9570F2AC8432A00B6F678 /* Screen4SwiftUView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen4SwiftUView.swift; sourceTree = "<group>"; };
+		FEF957112AC8433E00B6F678 /* Screen5SwiftUView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Screen5SwiftUView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,7 +96,7 @@
 		FEF956E92AC58BAA00B6F678 /* Coordinator */ = {
 			isa = PBXGroup;
 			children = (
-				FEF956C12AC4DF2100B6F678 /* AppCoordinator.swift */,
+				FEF956C12AC4DF2100B6F678 /* MainCoordinator.swift */,
 			);
 			path = Coordinator;
 			sourceTree = "<group>";
@@ -97,7 +113,8 @@
 		FEF956EB2AC58BCA00B6F678 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				FEF956C32AC4E3BA00B6F678 /* FirstViewController.swift */,
+				FEF957132AC846D000B6F678 /* kit */,
+				FEF957142AC846EB00B6F678 /* swiftui */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -120,6 +137,29 @@
 				FEF956FB2AC6F74D00B6F678 /* Cons.json */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		FEF957132AC846D000B6F678 /* kit */ = {
+			isa = PBXGroup;
+			children = (
+				FEF956C32AC4E3BA00B6F678 /* MainViewController.swift */,
+				FEF957012AC75F4800B6F678 /* Screen2ViewController.swift */,
+				FEF957032AC75F6700B6F678 /* Screen3ViewController.swift */,
+				FEF9570D2AC76C7A00B6F678 /* Screen1ViewController.swift */,
+			);
+			path = kit;
+			sourceTree = "<group>";
+		};
+		FEF957142AC846EB00B6F678 /* swiftui */ = {
+			isa = PBXGroup;
+			children = (
+				FEF956FF2AC75C5100B6F678 /* Screen1SwiftUIView.swift */,
+				FEF957072AC762EB00B6F678 /* Screen2SwiftUIView.swift */,
+				FEF9570B2AC7697200B6F678 /* Screen3SwiftUIView.swift */,
+				FEF9570F2AC8432A00B6F678 /* Screen4SwiftUView.swift */,
+				FEF957112AC8433E00B6F678 /* Screen5SwiftUView.swift */,
+			);
+			path = swiftui;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -194,13 +234,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FEF956C22AC4DF2100B6F678 /* AppCoordinator.swift in Sources */,
+				FEF957082AC762EB00B6F678 /* Screen2SwiftUIView.swift in Sources */,
+				FEF957002AC75C5100B6F678 /* Screen1SwiftUIView.swift in Sources */,
+				FEF956C22AC4DF2100B6F678 /* MainCoordinator.swift in Sources */,
+				FEF9570C2AC7697200B6F678 /* Screen3SwiftUIView.swift in Sources */,
 				FEF956F02AC58C1300B6F678 /* BuyConsultationModel.swift in Sources */,
 				FEF956AE2AC4DE6700B6F678 /* AppDelegate.swift in Sources */,
+				FEF9570E2AC76C7A00B6F678 /* Screen1ViewController.swift in Sources */,
 				FEF956EE2AC58BFC00B6F678 /* BuyConsultatuonViewModel.swift in Sources */,
+				FEF957042AC75F6700B6F678 /* Screen3ViewController.swift in Sources */,
 				FEF956E82AC58A6D00B6F678 /* BuyConsultationView.swift in Sources */,
+				FEF957122AC8433E00B6F678 /* Screen5SwiftUView.swift in Sources */,
 				FEF956B02AC4DE6700B6F678 /* SceneDelegate.swift in Sources */,
-				FEF956C42AC4E3BA00B6F678 /* FirstViewController.swift in Sources */,
+				FEF957022AC75F4800B6F678 /* Screen2ViewController.swift in Sources */,
+				FEF957102AC8432A00B6F678 /* Screen4SwiftUView.swift in Sources */,
+				FEF956C42AC4E3BA00B6F678 /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

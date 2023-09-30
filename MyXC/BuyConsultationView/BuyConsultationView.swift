@@ -1,8 +1,8 @@
 import SwiftUI
 
 struct BuyConsultationView: View {
-    @StateObject private var viewModel = BuyConsultationViewModel()
-    
+    @ObservedObject var viewModel: BuyConsultationViewModel
+
     var body: some View {
         VStack {
             if let consultations = viewModel.consultationsData?.consultationsByAmount {
@@ -27,4 +27,7 @@ struct BuyConsultationView: View {
             viewModel.loadData()
         }
     }
+}
+func makeBuyConsultationView(viewModel: BuyConsultationViewModel) -> some View {
+    return BuyConsultationView(viewModel: viewModel)
 }
